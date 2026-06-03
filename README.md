@@ -17,3 +17,7 @@ Sample: 138 participants (103 female, 35 male), age range 18-25 (M = 20.8, SD = 
 ## Methods
 
 Hierarchical multiple regression was conducted with two steps. In Step 1, self-esteem (RSES) and difficulties in emotion regulation (DERS) were entered as predictors of eating disorder behaviours (EDE-Q total score). In Step 2, self-compassion (SCS) was added to the model. Pearson correlations were calculated between all variables. Cronbach's alpha was computed for each scale to assess internal consistency (EDE-Q α = .93, RSES α = .80, SCS α = .89, DERS α = .89). Variance inflation factor (VIF) was checked for multicollinearity (all VIF < 2). Residual diagnostics included Q-Q plots, residuals vs fitted plots, and Cook's distance to identify influential points. The Shapiro-Wilk test indicated non-normality (p < .001), but Q-Q plot inspection showed only mild tail skew, and bootstrapped regression produced the same pattern of significance, so untransformed scores were retained.
+
+## Repo
+The RMD file display raw R code.
+The PNG files display visual outputs
