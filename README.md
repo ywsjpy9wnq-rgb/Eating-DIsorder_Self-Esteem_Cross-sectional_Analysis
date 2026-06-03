@@ -1,4 +1,3 @@
-
 ## Summary
 Hierarchical regression examined whether self-compassion and difficulties in emotion regulation uniquely predict eating disorder behaviours beyond global self-esteem (N = 138). Self-compassion was the only unique predictor (β = -0.40, p < .001), explaining an additional 14% of variance beyond self-esteem and emotion regulation.
 
